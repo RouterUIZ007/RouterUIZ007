@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 800 115" width="800" height="115" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				*{
+					padding: 0px;
+					margin: 0px;
+                    font-family: 'Open Sans', sans-serif;
+				}
+                .text0 {
+                    font-size: 20px;
+                    color: #fff;
+                }
+                .text1 {
+                    color: #DD77E5;
+                    font-size: 25px;
+                    font-weight: bold;
+                }
+                .center{
+                    text-align: center;
+                }
+			</style>
+            
+
+            <div>
+                <p class="center text0">
+                    I'm <span class="text1">@RouterUIZ007</span> or <span class="text1">Abi </span> and i'm <span class="text1">Web Developer 📟</span> 
+                </p>
+                <br></br>
+                <p class="center text0">
+                  I passionate about <span class="text1">Programming</span> and making <span class="text1">Web Desing</span>, I try to improve dat by day in my person and academically.
+                </p>
+            </div>
+
+
+		</div>
+	</foreignObject>
+</svg>

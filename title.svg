@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 800 55" width="800" height="55" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				*{
+					padding: 0px;
+					margin: 0px;
+                    font-family: 'Open Sans', sans-serif;
+				}
+				@keyframes rotate {
+					0% {
+						transform: rotate(3deg);
+					}
+					100% {
+						transform: rotate(-3deg);
+					}
+				}
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				.title {
+					text-align: center; 
+					color: #ffffff;
+					font-size: 25px;
+					font-weight: bold;
+					animation: rotate ease-in-out 1s infinite alternate;
+				}
+				.ground{
+					background: linear-gradient(-45deg, #9c5bf7, #4c2f75, #9c82c2);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 7px;
+				}
+			</style>
+			<div class="ground">
+				<p class="title">⭐ About Me ⭐</p> 
+			</div>
+		</div>
+	</foreignObject>
+</svg>

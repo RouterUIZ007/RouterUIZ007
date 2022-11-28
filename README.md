@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img.svg" width="1000">
+    <img src="title.svg" width="1000">
 </div>
 <div align="center">
 
@@ -9,6 +9,7 @@
 <div align="center">
     <img src="description.svg" width="1000">
 </div>
+
 <div align="center">
 
   ## ⚙ Tech Stack 📌

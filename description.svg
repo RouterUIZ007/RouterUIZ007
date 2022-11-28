@@ -8,12 +8,12 @@
                     font-family: 'Open Sans', sans-serif;
 				}
                 .text0 {
-                    font-size: 20px;
+                    font-size: 18px;
                     color: #fff;
                 }
                 .text1 {
                     color: #DD77E5;
-                    font-size: 25px;
+                    font-size: 20px;
                     font-weight: bold;
                 }
                 .center{

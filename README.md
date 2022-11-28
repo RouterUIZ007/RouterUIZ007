@@ -3,7 +3,7 @@
     <img src="img.svg" width="1000">
   </a>
 </p>
-<div class="center">
+<div align="center">
 
   ![Profile views](https://gpvc.arturio.dev/RouterUIZ007)
 

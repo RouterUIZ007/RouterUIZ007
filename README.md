@@ -47,3 +47,11 @@
   <!-- dark,tokyonight,synthwave -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RouterUIZ007&layout=compact&show_icons=true&theme=tokyonight)
 </details>
+<br>
+<div align="center">
+  
+  ## 🎶 Music i listen to
+
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=routeruiz&cover_image=true&theme=novatorem&show_offline=false&background_color=bc7bba&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/routeruiz?si=5a59e1c9fefd419c)
+
+</div>

@@ -36,7 +36,12 @@
 
 <div align="center">
 
-  ## 🤔 undefined 💭
+  <!-- ## 🤔 undefined 💭 -->
+
+  | **</>** |
+  | :---: |
+  | <img src="https://skillicons.dev/icons?i=js,nodejs,angular,xd,pr,figma"/> |
+  
 </div>
 
 <details align="center">

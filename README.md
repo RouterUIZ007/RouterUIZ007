@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  | **Front-End** | **Back=End** |**FrameWorks** | **Bd** |
+  | **Front-End** | **Back-End** |**FrameWorks** | **Bd** |
   | :---:| :---: | :---: | :---: |
   | <img src="https://skillicons.dev/icons?i=html,css,alpinejs"/> | <img src="https://skillicons.dev/icons?i=php&theme=light"/> | <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap"/> | <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 

@@ -40,7 +40,7 @@
 
   | **</>** |
   | :---: |
-  | <img src="https://skillicons.dev/icons?i=js,nodejs,angular,xd,pr,figma"/> |
+  | <img src="https://skillicons.dev/icons?i=js,angular,xd,pr,figma"/> |
   
 </div>
 

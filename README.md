@@ -61,7 +61,7 @@
   ## 🎶 Music i listen to
 
 
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k5fx2tk4dj5x4hs6nxpuiosx44&cover_image=true&theme=novatorem&show_offline=false&background_color=bc7bba&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/31k5fx2tk4dj5x4hs6nxpuiosx44?si=1d554257870e496a)
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ec2d6e1ec4074458&cover_image=true&theme=novatorem&show_offline=false&background_color=bc7bba&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/routeruiz?si=ec2d6e1ec4074458)
 
   ## 📞 Contact
 

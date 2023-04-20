@@ -60,7 +60,8 @@
   
   ## 🎶 Music i listen to
 
-    [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=routeruiz&cover_image=true&theme=novatorem&show_offline=false&background_color=bc7bba&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/routeruiz?si=5a59e1c9fefd419c)
+
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k5fx2tk4dj5x4hs6nxpuiosx44&cover_image=true&theme=novatorem&show_offline=false&background_color=bc7bba&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/31k5fx2tk4dj5x4hs6nxpuiosx44?si=1d554257870e496a)
 
   ## 📞 Contact
 

@@ -1,11 +1,7 @@
 <div align="center">
     <img src="title.svg" width="1000">
 </div>
-<div align="center">
 
-  ![Profile views](https://gpvc.arturio.dev/RouterUIZ007)
-
-</div>
 <div align="center">
     <img src="description.svg" width="1000">
 </div>
@@ -36,11 +32,7 @@
 
 <div align="center">
 
-  <!-- ## 🤔 undefined 💭 -->
-
-  | **</>** |
-  | :---: |
-  | <img src="https://skillicons.dev/icons?i=js,angular,xd,pr,figma"/> |
+  <img src="https://skillicons.dev/icons?i=js,angular,xd,pr,figma"/> 
   
 </div>
 
@@ -60,8 +52,7 @@
   
   ## 🎶 Music i listen to
 
-  [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=routeruiz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/routeruiz?si=ec2d6e1ec4074458)
-    
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22symxffwqa66mbf7ivghxemy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22symxffwqa66mbf7ivghxemy&redirect=true)
     
 
   ## 📞 Contact

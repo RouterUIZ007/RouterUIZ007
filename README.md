@@ -4,9 +4,9 @@
 
 <div align="center">
 
-  ## <> Hola, soy abi y trabajo como desarrollador web Jr. </>
+  ## <> Hi, I'm abi and I work as a web developer Jr. </>
 
-  ### En espera de vivir las mejores expericias en la industria de la tacnologia, y sobre todo poder dar soluciones a problemas o mejorar la vida de los demas. Pero tambien trato de mejorar dia a dia en mi persona y en mis conocimientos.
+  ### Waiting to live the best experiences in the technology industry, and above all to be able to provide solutions to problems or improve the lives of others. But I also try to improve myself and in knowledge day by day.
 
 </div>
 

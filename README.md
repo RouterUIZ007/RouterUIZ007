@@ -3,7 +3,11 @@
 </div>
 
 <div align="center">
-    <img src="description.svg" width="1000">
+
+  ## <> i'm Abi or Abimael and i'm web developer Jr. </>
+
+  ### En espera de vivir las mejores expericias en la industria de la tacnologia, y sobre todo poder dar soluciones a problemas o mejorar la vida de los demas. Pero tambien trato de mejorar dia a dia en mi persona y en mis conocimientos.
+
 </div>
 
 <div align="center">
@@ -20,19 +24,19 @@
 
   | **Others** |
   | :---: |
-  | <img src="https://skillicons.dev/icons?i=git,java,photoshop,vscode"/> |
+  | <img src="https://skillicons.dev/icons?i=git,java,vscode"/> |
 
 </div>
 
 <div align="center">
 
-  ## 🚀 Challenges for 2023 🎯
+  ## 🚀 Challenges for 2024 🎯
 
 </div>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,angular,xd,pr,figma"/> 
+  <img src="https://skillicons.dev/icons?i=js,angular,figma"/> 
   
 </div>
 

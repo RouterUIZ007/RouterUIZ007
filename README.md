@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  ## <> i'm Abi or Abimael and i'm web developer Jr. </>
+  ## <> Hola, soy abi y trabajo como desarrollador web Jr. </>
 
   ### En espera de vivir las mejores expericias en la industria de la tacnologia, y sobre todo poder dar soluciones a problemas o mejorar la vida de los demas. Pero tambien trato de mejorar dia a dia en mi persona y en mis conocimientos.
 

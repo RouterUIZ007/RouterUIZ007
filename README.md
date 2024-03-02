@@ -62,9 +62,6 @@
   ## 📞 Contact
 
   <div>
-    <a href="https://www.facebook.com/RouterUIZ007/">
-        <img src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
     <a href="https://www.linkedin.com/in/routeruiz007/">
         <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
